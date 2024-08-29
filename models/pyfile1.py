@@ -1,3 +1,4 @@
+import numpy as np
 """Here is some example code"""
 
 def func1():
@@ -10,4 +11,4 @@ def func1():
     Returns: 
         (dict): The Gin config as a dict
     """
-	print("Hello World)
+	print("Hello World")

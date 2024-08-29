@@ -10,4 +10,4 @@ def func1():
     Returns: 
         (dict): The Gin config as a dict
     """
-	print("Hello World)
+	print("Hello World")
