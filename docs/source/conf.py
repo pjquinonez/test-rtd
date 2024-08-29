@@ -9,7 +9,7 @@ import sys
 sys.path.insert(0, os.path.abspath('../../models/'))
 sys.path.insert(0, os.path.abspath('../../src/'))
 sys.path.insert(0, os.path.abspath('../../src/models'))
-# sys.path.insert(0, os.path.abspath('../../src/features'))
+sys.path.insert(0, os.path.abspath('../../src/features'))
 # sys.path.insert(0, os.path.abspath('../../src/data'))
 
 # print("**********")
